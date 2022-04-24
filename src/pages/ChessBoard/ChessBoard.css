@@ -1,0 +1,28 @@
+.black-cell {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.white-cell {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray;
+}
+
+.active-cell {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.chess-board {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin: auto;
+}
+
+.display-none {
+    display: none;
+}

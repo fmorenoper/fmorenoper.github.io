@@ -1,0 +1,23 @@
+.initial-form-label {
+    margin: 5px;
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+}
+
+.initial-form-input {
+    text-align: center;
+    height: 2em;
+    margin: 0.5em;
+}
+
+.initial-form-button {
+    width: 135px;
+    height: 37px;
+    margin-top: 21px;
+    border-radius: 8px;
+}
+
+.initial-form-line-container {
+    width: fit-content;
+}
